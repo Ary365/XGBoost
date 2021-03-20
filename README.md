@@ -1,6 +1,6 @@
 ## Xgboost
 
-XGBoost is one of the most powerful ML algorithm from tree ensemble group. XGboost based on the decision tree answer search and it`s using GradientBoosting framework. 
+XGBoost stands for eXtreme Gradient Boosting. XGBoost is one of the most powerful ML algorithm from tree ensemble group. XGboost based on the decision tree answer search and it`s using GradientBoosting framework. 
 
 *There are 2 main types of decision tree ensemble:*
 
